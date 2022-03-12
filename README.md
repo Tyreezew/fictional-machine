@@ -5,7 +5,7 @@ This Node application is for a business owner to be able to view and manage depa
 # Description
 This is a CLI app that allows a user to perform create, read, update, and delete (CRUD) functions on a SQL database representing the departments, roles and employees of a company. It is set up in a user friendly way, and requires no knowledge of SQL commands to operate.
 
-# The application gives yout the following options:
+The application gives you the following options:
 
 View all employees with the option by role and department
 Add an employee, role, or department
