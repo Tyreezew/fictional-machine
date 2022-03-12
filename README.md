@@ -1,4 +1,4 @@
-# employee-tracker
+# Employee-Tracker
 
 This Node application is for a business owner to be able to view and manage departments, roles, and employees in their company in order to organize and plan their business.
 
