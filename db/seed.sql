@@ -1,6 +1,6 @@
 USE employee_db;
 
-INSERT INTO department (id, name)
+INSERT INTO department (name)
 VALUES
 ('Marketing'),
 ('Human Resources'),
@@ -21,10 +21,10 @@ VALUES
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
 VALUES
 ('Mariah', 'Elba', 1, NULL),
-('Lauryn', 'Perkins', 2, 4),
+('Lauryn', 'Perkins', 2, 1),
 ('Alexis', 'Scott', 3, NULL),
-('Chris', 'Sims', 4, 5),
+('Chris', 'Sims', 4, 3),
 ('Kevin', 'West', 5, NULL),
-('Tiffany' 'Pollard', 6, 3),
+('Tiffany', 'Pollard', 6, 3),
 ('Enrique', 'Sanchez', 7, NULL),
 ('Angela', 'Howard', 8, 7);
