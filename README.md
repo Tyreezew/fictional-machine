@@ -7,9 +7,9 @@ This is a CLI app that allows a user to perform create, read, update, and delete
 
 The application gives you the following options:
 
-View all employees with the option by role and department
-Add an employee, role, or department
-Update an employee role 
+1. View all employees with the option by role and department.
+2. Add an employee, role, or department.
+3. Update an employee role.
 
 
 # Installation
