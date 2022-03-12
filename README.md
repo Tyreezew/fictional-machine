@@ -24,6 +24,8 @@ Usage
 First, download the schema.sql file to create the database and three tables that contain the info for departments, roles, and employees. To start the app, run the command npm index.js in the terminal. The user is greeted and offered a list of choices to execute various CRUD functions.
 
 # Demonstration
+https://drive.google.com/file/d/148vOEk1AwviL86gJCl07HKBagIinvJxQ/view
 
 # Questions
+If you have any questions, feel free to reach me at wedding5@msuedu! Check out my repo for more projects!
 
