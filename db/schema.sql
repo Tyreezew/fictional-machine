@@ -21,7 +21,5 @@ CREATE TABLE department (
      first_name VARCHAR(30) NOT NULL,
      last_name VARCHAR(30) NOT NULL,
      role_id INT NOT NULL,
-     manager_id INT,
-     CONSTRAINT fk_role FOREIGN KEY (role_id) REFERENCES role(id),
-     CONSTRAINT fk_manager FOREIGN KEY (manager_id) REFERENCES employee(id)
+     manager_id INT
  );

@@ -174,7 +174,7 @@ function addRole() {
         const title = res.roleTitle;
         const departmentID = res.roleDept;
         const salary = res.roleSalary;
-        const query = `INSERT INTO role (title, department_id, salary) VALUES("${title}", "${departmentID}", "${addRoleId}", "${salary}")`
+        const query = `INSERT INTO role (title, department_id, salary) VALUES("${title}", "${departmentID}", "${salary}")`
         connection.query(query, function (err, res) {
             if (err) throw err;
             console.table(res);
